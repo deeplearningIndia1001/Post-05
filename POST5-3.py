@@ -12,7 +12,7 @@ x2 = [6,9,11] #DataPoints for Class 02
 y2 = [6,15,7]
 
 plt.bar(x,y,linewidth=1 , label ="Class1")
-plt.barr(x2,y2,linewidth=1 , label ="Class2")
+plt.bar(x2,y2,linewidth=1 , label ="Class2")
 
 plt.title('@deeplearningindia')
 plt.ylabel('Y axis')
